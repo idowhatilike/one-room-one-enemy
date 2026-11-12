@@ -8,7 +8,8 @@ Chỉ ghi quyết định có căn cứ; đề xuất chưa duyệt không phả
 | Giữ layout shared/entities và naming hiện tại | Code và hướng dẫn đã thống nhất; không refactor gameplay trong task thiết lập workflow |
 | Comment mới và tài liệu tiếng Việt | Quy tắc làm việc người dùng đã cung cấp; không áp dụng quy tắc tiếng Anh xung đột trong file tham khảo |
 | Dùng AGENTS.md | Người dùng yêu cầu tự sửa tên hướng dẫn phù hợp; thay cho AGENT.md |
-| Bốn skill trong .claude/skills/ | Vị trí của file tham khảo, AGENTS.md dẫn tới từng SKILL.md; không tạo project-memory riêng ngoài bốn skill yêu cầu |
+| Bốn skill Codex trong .agents/skills/ | Người dùng xác nhận dùng Codex; dùng vị trí skill theo repository, AGENTS.md dẫn tới từng SKILL.md; giữ nguyên nội dung bốn skill |
+| Bổ sung github-pr trong .agents/skills/ | Người dùng yêu cầu workflow Git/GitHub PR; kiểm tra diff và quyền commit/push/PR riêng, không mặc định merge hoặc deploy |
 | STATE tối đa 40 dòng, docs tách theo vai trò | Yêu cầu bộ nhớ dự án gọn; hồ sơ hoàn tất nằm ở archive khi được phép chuyển |
 | Verify phải build, 0 warning và CTest | Yêu cầu người dùng; đăng ký hai test sẵn có thay vì chấp nhận kết quả không có test |
 | Verify không tải raylib ngầm | Dependency cần phê duyệt; cấu hình verify dùng FETCHCONTENT_FULLY_DISCONNECTED=ON |

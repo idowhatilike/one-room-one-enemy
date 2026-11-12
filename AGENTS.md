@@ -10,18 +10,19 @@ Trao đổi, comment mới và tài liệu bằng tiếng Việt; identifier the
 2. Chọn skill phù hợp trong bảng; chỉ đọc thêm code/tài liệu liên quan.
 3. Trước khi dừng hoặc chuyển context, cập nhật STATE ngắn gọn, không ghi nhật ký.
 
-## Skills (`.claude/skills/`)
+## Skills Codex (`.agents/skills/`)
 
 | Tình huống | Skill |
 | --- | --- |
-| Tính năng, mechanic, refactor nhiều file hoặc đổi hành vi | [plan-feature](.claude/skills/plan-feature/SKILL.md) |
-| Có plan đã duyệt, thực hiện task tiếp theo | [execute-task](.claude/skills/execute-task/SKILL.md) |
-| Bug, crash, hành vi sai, build/test lỗi | [fix-bug](.claude/skills/fix-bug/SKILL.md) |
-| Thêm enum/value, struct, entity kind hoặc flags | [add-game-type](.claude/skills/add-game-type/SKILL.md) |
+| Tính năng, mechanic, refactor nhiều file hoặc đổi hành vi | [plan-feature](.agents/skills/plan-feature/SKILL.md) |
+| Có plan đã duyệt, thực hiện task tiếp theo | [execute-task](.agents/skills/execute-task/SKILL.md) |
+| Bug, crash, hành vi sai, build/test lỗi | [fix-bug](.agents/skills/fix-bug/SKILL.md) |
+| Thêm enum/value, struct, entity kind hoặc flags | [add-game-type](.agents/skills/add-game-type/SKILL.md) |
+| Chuẩn bị commit, push GitHub, tạo hoặc cập nhật PR | [github-pr](.agents/skills/github-pr/SKILL.md) |
 
 Skill được đọc theo đường dẫn trên; việc chọn skill không cho phép vượt phạm vi
 người dùng đã giao. Không cần skill project-memory riêng: cập nhật STATE là bước
-kết thúc của cả bốn workflow.
+kết thúc của các workflow.
 
 ## Quy trình bắt buộc
 
