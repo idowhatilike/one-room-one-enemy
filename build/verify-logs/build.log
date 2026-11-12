@@ -1,0 +1,52 @@
+[  2%] Building C object _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/context.c.obj
+[  4%] Building C object _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/init.c.obj
+[  6%] Building C object _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/input.c.obj
+[  8%] Building C object _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/monitor.c.obj
+[ 10%] Building C object _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/platform.c.obj
+[ 12%] Building C object _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/vulkan.c.obj
+[ 14%] Building C object _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/window.c.obj
+[ 17%] Building C object _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/egl_context.c.obj
+[ 19%] Building C object _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.obj
+[ 21%] Building C object _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/null_init.c.obj
+[ 23%] Building C object _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.obj
+[ 25%] Building C object _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/null_window.c.obj
+[ 27%] Building C object _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.obj
+[ 29%] Building C object _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/win32_module.c.obj
+[ 31%] Building C object _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/win32_time.c.obj
+[ 34%] Building C object _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/win32_thread.c.obj
+[ 36%] Building C object _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/win32_init.c.obj
+[ 38%] Building C object _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/win32_joystick.c.obj
+[ 40%] Building C object _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/win32_monitor.c.obj
+[ 42%] Building C object _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/win32_window.c.obj
+[ 44%] Building C object _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/wgl_context.c.obj
+[ 44%] Built target glfw
+[ 46%] Building C object _deps/raylib-build/raylib/CMakeFiles/raylib.dir/rcore.c.obj
+[ 48%] Building C object _deps/raylib-build/raylib/CMakeFiles/raylib.dir/rshapes.c.obj
+[ 51%] Building C object _deps/raylib-build/raylib/CMakeFiles/raylib.dir/rtext.c.obj
+[ 53%] Building C object _deps/raylib-build/raylib/CMakeFiles/raylib.dir/rtextures.c.obj
+[ 55%] Building C object _deps/raylib-build/raylib/CMakeFiles/raylib.dir/raudio.c.obj
+[ 57%] Building C object _deps/raylib-build/raylib/CMakeFiles/raylib.dir/rmodels.c.obj
+[ 59%] Linking C static library libraylib.a
+[ 59%] Built target raylib
+[ 61%] Building CXX object CMakeFiles/player_test.dir/tests/player_test.cpp.obj
+[ 63%] Building CXX object CMakeFiles/oroe.dir/src/main.cpp.obj
+[ 65%] Building CXX object CMakeFiles/player_test.dir/src/entities/player/player.cpp.obj
+[ 68%] Building CXX object CMakeFiles/weapon_mastery_test.dir/tests/weapon_mastery_test.cpp.obj
+[ 72%] Building CXX object CMakeFiles/player_test.dir/src/entities/enemies/enemy.cpp.obj
+[ 72%] Building CXX object CMakeFiles/oroe.dir/src/entities/player/player.cpp.obj
+[ 74%] Building CXX object CMakeFiles/oroe.dir/src/entities/enemies/enemy.cpp.obj
+[ 78%] Building CXX object CMakeFiles/player_test.dir/src/shared/base.cpp.obj
+[ 78%] Building CXX object CMakeFiles/weapon_mastery_test.dir/src/shared/base.cpp.obj
+[ 80%] Building CXX object CMakeFiles/oroe.dir/src/shared/base.cpp.obj
+[ 85%] Building CXX object CMakeFiles/oroe.dir/src/shared/creature.cpp.obj
+[ 85%] Building CXX object CMakeFiles/weapon_mastery_test.dir/src/shared/creature.cpp.obj
+[ 87%] Building CXX object CMakeFiles/player_test.dir/src/shared/creature.cpp.obj
+[ 89%] Building CXX object CMakeFiles/weapon_mastery_test.dir/src/shared/weapon.cpp.obj
+[ 91%] Building CXX object CMakeFiles/player_test.dir/src/shared/weapon.cpp.obj
+[ 93%] Building CXX object CMakeFiles/oroe.dir/src/shared/weapon.cpp.obj
+[ 95%] Linking CXX executable oroe.exe
+[100%] Linking CXX executable player_test.exe
+[100%] Linking CXX executable weapon_mastery_test.exe
+[100%] Built target player_test
+[100%] Built target weapon_mastery_test
+[100%] Built target oroe

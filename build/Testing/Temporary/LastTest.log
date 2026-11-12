@@ -1,0 +1,33 @@
+Start testing: Nov 12 12:56 SE Asia Standard Time
+----------------------------------------------------------
+1/2 Testing: player_test
+1/2 Test: player_test
+Command: "C:/Users/Trieu/one-room-one-enemy/build/player_test.exe"
+Directory: C:/Users/Trieu/one-room-one-enemy/build
+"player_test" start time: Nov 12 12:56 SE Asia Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Passed.
+"player_test" end time: Nov 12 12:56 SE Asia Standard Time
+"player_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: weapon_mastery_test
+2/2 Test: weapon_mastery_test
+Command: "C:/Users/Trieu/one-room-one-enemy/build/weapon_mastery_test.exe"
+Directory: C:/Users/Trieu/one-room-one-enemy/build
+"weapon_mastery_test" start time: Nov 12 12:56 SE Asia Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"weapon_mastery_test" end time: Nov 12 12:56 SE Asia Standard Time
+"weapon_mastery_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 12 12:56 SE Asia Standard Time

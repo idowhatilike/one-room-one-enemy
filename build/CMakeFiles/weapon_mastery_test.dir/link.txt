@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\weapon_mastery_test.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\weapon_mastery_test.dir/objects.a @CMakeFiles\weapon_mastery_test.dir\objects1.rsp
+C:\msys64\ucrt64\bin\c++.exe -g -Wl,--whole-archive CMakeFiles\weapon_mastery_test.dir/objects.a -Wl,--no-whole-archive -o weapon_mastery_test.exe -Wl,--out-implib,libweapon_mastery_test.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\weapon_mastery_test.dir\linkLibs.rsp

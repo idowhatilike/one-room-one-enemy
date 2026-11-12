@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\oroe.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\oroe.dir/objects.a @CMakeFiles\oroe.dir\objects1.rsp
+C:\msys64\ucrt64\bin\c++.exe -g -Wl,--whole-archive CMakeFiles\oroe.dir/objects.a -Wl,--no-whole-archive -o oroe.exe -Wl,--out-implib,liboroe.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\oroe.dir\linkLibs.rsp

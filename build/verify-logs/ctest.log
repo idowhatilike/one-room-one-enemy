@@ -1,0 +1,9 @@
+Test project C:/Users/Trieu/one-room-one-enemy/build
+    Start 1: player_test
+1/2 Test #1: player_test ......................   Passed    0.10 sec
+    Start 2: weapon_mastery_test
+2/2 Test #2: weapon_mastery_test ..............   Passed    0.24 sec
+
+100% tests passed out of 2
+
+Total Test time (real) =   0.39 sec
